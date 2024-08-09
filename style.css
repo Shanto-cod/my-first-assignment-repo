@@ -50,3 +50,32 @@
 .video{
     text-align: center;
 }
+.target-content{
+    text-align: center;
+    margin-top: 70px;
+}
+.target-details{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 100px;
+    padding: 30px;
+}
+.need{
+    text-decoration: underline;
+}
+.skill{
+    box-shadow: 0px 06px 50px 0px grey;
+    padding: 40px;
+}
+.again-one{
+    background-color: orange;
+    padding: 30px;
+}
+.again-two{
+    background-color: goldenrod;
+    padding: 30px;
+}
+.again-three{
+    background-color: wheat;
+    padding: 30px;
+}
