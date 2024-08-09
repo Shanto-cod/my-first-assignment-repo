@@ -1,0 +1,52 @@
+.first-header-div{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px ;
+}
+.btn{
+    height: 50px;
+    font-weight: bold;
+}
+.important{
+    background-image: url(Hero-bg.png);
+    background-repeat: no-repeat;
+    align-items: center;
+    text-align: center;
+}
+.bnt{
+    color: white;
+    background-color: black;
+    font-weight: bold;
+    height: 50px;
+}
+.start{
+    text-align: center;
+    margin-top: 50px;
+}
+.left-part{
+    display: flex;
+    margin:  50px;
+    align-items: center;
+    justify-content: space-between;
+}
+.second{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+    align-items: center;
+}
+.last-part{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+    align-items: center;
+}
+.full-part{
+    padding: 50px;
+}
+.video-part{
+    text-align: center;
+}
+.video{
+    text-align: center;
+}
