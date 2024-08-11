@@ -68,14 +68,71 @@
     padding: 40px;
 }
 .again-one{
-    background-color: orange;
+    background-color: #e7e8ed;
     padding: 30px;
 }
 .again-two{
-    background-color: goldenrod;
+    background-color: #D3EAC8;
     padding: 30px;
 }
 .again-three{
     background-color: wheat;
     padding: 30px;
+}
+.common{
+    text-align: center;
+}
+.first{
+    display: flex;
+    align-items: center;
+    padding: 20px ;
+}
+.second-one{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+.third{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+.picture-content{
+    height: 50px;
+}
+.next-target{
+    margin: 50px 70px;
+}
+.in{
+    padding: 05px;
+    border: 0 06px;
+}
+.on{
+    padding: 20px;
+}
+.ending-part{
+    background-image: url(handshake.jpg);
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 1100px;
+    text-align: center;
+    padding: 20px;
+    color: white;
+    margin: 50px 70px;
+}
+.tak-it{
+    width: 300px;
+    height: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+.take-it{
+    width: 90px;
+    height: 30px;
+    font-weight: bold;
+}
+.error-part{
+    display: flex;
+    justify-content:space-between;
+    margin: 50px 70px;
 }
